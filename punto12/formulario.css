@@ -1,0 +1,39 @@
+h1{
+    color: aqua;
+}
+h3{
+    color: blue;
+}
+form{
+        border: solid blueviolet;
+        border-radius: 10px;
+        width: 480px;        
+        margin: 20px auto;
+        padding: 20px;
+        background: #fff;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px 0px black;
+    
+}
+#exampleInputEmail1 {
+    width: 300px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #333;
+    background-color: #f5f5f5;
+}
+#exampleInputPassword1{
+    width: 300px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #333;
+    background-color: #f5f5f5;
+}
